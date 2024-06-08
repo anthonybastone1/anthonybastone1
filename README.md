@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anthony! <br/><a href="https://github.com/joshmadakor1">IT</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Anthony! <br/><a href="https://github.com/anthonybastone1">IT</a>, <a href="https://www.linkedin.com/in/mrbastone/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
