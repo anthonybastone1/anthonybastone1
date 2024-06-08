@@ -8,7 +8,8 @@
 
 - [CompTIA Security+ CE](https://github.com/user-attachments/files/15746215/CompTIA.Security%2B.ce.certificate.pdf) - [Verify Certificate](http://verify.Comptia.org)
 
-  
+- [CompTIA Security+ ce certificate](https://github.com/anthonybastone1/anthonybastone1/assets/172090820/f860eda5-fcba-487b-98da-f0658a8670de)
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
