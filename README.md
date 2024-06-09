@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anthony! <br/><a href="https://github.com/anthonybastone1">Information Technology</a>, <a href="https://www.linkedin.com/in/mrbastone/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Anthony! <br/><a href="https://github.com/anthonybastone1">Networking</a> & <a href="https://www.linkedin.com/in/mrbastone/"> Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -8,12 +8,25 @@
 
 - [CompTIA Security+ CE](https://github.com/anthonybastone1/anthonybastone1/assets/172090820/f860eda5-fcba-487b-98da-f0658a8670de) - [Verify Certification](http://verify.Comptia.org)
 
+<h2>✍️ Skills</h2>
+
+  - Microsoft Office
+  - TCP/IP
+  - OSI Model
+  - IDS/IPS
+  - Attention to Detail
+  - Cybersecurity
+  - Communication
+  - Customer Service
+  - Leadership
+  - Collaboration
+  - Time Management
+  - Accountability
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="AnthonyBastone | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AnthonyBastone | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/mrbastone/
 [linkedin]: https://linkedin.com/in/mrbastone
 
 <!--
