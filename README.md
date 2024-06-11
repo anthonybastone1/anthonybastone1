@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/anthonybastone1/ActiveDirectoryLab)
+  - [Elastic SIEM Home Lab](https://github.com/anthonybastone1/elasticsiem)
 
 <h2>📄 Certifications</h2>
 
@@ -11,6 +11,7 @@
 <h2>✍️ Skills</h2>
 
   - Microsoft Office
+  - Kali Linux
   - TCP/IP
   - OSI Model
   - IDS/IPS
