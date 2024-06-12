@@ -11,7 +11,7 @@
 <h2>✍️ Skills</h2>
 
   - Microsoft Office
-  - Kali Linux
+  - Linux
   - TCP/IP
   - OSI Model
   - IDS/IPS
