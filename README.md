@@ -16,7 +16,7 @@
   - TCP/IP
   - OSI Model
   - IDS/IPS
-  - DHCP
+  - Network Protocols
   - Network Security
   - Network Architecture
   - Attention to Detail
