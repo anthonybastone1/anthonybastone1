@@ -7,7 +7,7 @@
 <h2>📄 Certifications</h2>
 
 - [CompTIA Security+ CE](https://github.com/anthonybastone1/anthonybastone1/assets/172090820/f860eda5-fcba-487b-98da-f0658a8670de) - [Verify Certification](http://verify.Comptia.org)
-- [CompTIA Network+ CE](https://imgur.com/7mUaDsx) - [Verify Certification](http://verify.Comptia.org)
+- [CompTIA Network+ CE](https://github.com/anthonybastone1/anthonybastone1/assets/172090820/0d6d5ef3-8ae0-49b5-9a99-b37cfdd480ff) - [Verify Certification](http://verify.Comptia.org)
 
 <h2>✍️ Skills</h2>
 
