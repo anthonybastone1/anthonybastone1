@@ -12,8 +12,12 @@
 
 <h2>✍️ Skills</h2>
 
+  - Microsoft Windows
+  - Active Directory
   - Microsoft Office
   - Linux
+  - SIEM
+  - EDR
   - TCP/IP
   - OSI Model
   - IDS/IPS
