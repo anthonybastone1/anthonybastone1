@@ -3,7 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab - Brute Force Attack](https://github.com/anthonybastone1/ActiveDirectory-Advanced)
-  - [Elastic SIEM Home Lab](https://github.com/anthonybastone1/elasticsiem)
+  - [Active Directory Home Lab - Adding Users with PowerShell](https://github.com/anthonybastone1/ActiveDirectory-PowerShell)
+  - [Elastic SIEM Home Lab - Nmap](https://github.com/anthonybastone1/elasticsiem)
 
 <h2>📄 Certifications</h2>
 
