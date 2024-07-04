@@ -1,7 +1,8 @@
-<h1>Hi, I'm Anthony! <br/><a href="https://github.com/anthonybastone1">Networking</a> & <a href="https://www.linkedin.com/in/mrbastone/"> Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Anthony! <br/><a href="https://www.linkedin.com/in/mrbastone/">Networking</a> & <a href="https://github.com/anthonybastone1"> Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+  - [Microsoft Sentinel Home Lab - Live Attacks](https://github.com/anthonybastone1/MicrosoftSentinel)
   - [Active Directory Home Lab - Brute Force Attack](https://github.com/anthonybastone1/ActiveDirectory-Advanced)
   - [Active Directory Home Lab - Adding Users with PowerShell](https://github.com/anthonybastone1/ActiveDirectory-PowerShell)
   - [Elastic SIEM Home Lab - Nmap](https://github.com/anthonybastone1/elasticsiem)
@@ -16,8 +17,9 @@
   - Microsoft Windows
   - Active Directory
   - Microsoft Office
-  - Linux
-  - SIEM
+  - SIEM (Splunk, Elastic Stack, Microsoft Sentinel)
+  - Virtual Machines (VMware, Oracle VirtualBox, Azure VM)
+  - Kali Linux
   - EDR
   - TCP/IP
   - OSI Model
