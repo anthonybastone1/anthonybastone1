@@ -7,7 +7,11 @@
   - [Active Directory Home Lab - Adding Users with PowerShell](https://github.com/anthonybastone1/ActiveDirectory-PowerShell)
   - [Elastic SIEM Home Lab - Nmap](https://github.com/anthonybastone1/elasticsiem)
 
-<h2>📄 Certifications</h2>
+<h2>📚 Currently Studying</h2>
+
+- [AWS Certified Solutions Architect - Associate](https://github.com/anthonybastone1/AWS-SAA)
+
+<h2>📄 Active Certifications</h2>
 
 - [CompTIA Security+ CE](https://github.com/anthonybastone1/anthonybastone1/assets/172090820/f860eda5-fcba-487b-98da-f0658a8670de) - [Verify Certification](http://verify.Comptia.org)
 - [CompTIA Network+ CE](https://github.com/anthonybastone1/anthonybastone1/assets/172090820/0d6d5ef3-8ae0-49b5-9a99-b37cfdd480ff) - [Verify Certification](http://verify.Comptia.org)
