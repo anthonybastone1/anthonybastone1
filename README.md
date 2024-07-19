@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+  - [Vulnerability Management - Nessus](https://github.com/anthonybastone1/Vulnerability-Management)
   - [Microsoft Sentinel Home Lab - Live Attacks](https://github.com/anthonybastone1/MicrosoftSentinel)
   - [Active Directory Home Lab - Brute Force Attack](https://github.com/anthonybastone1/ActiveDirectory-Advanced)
   - [Active Directory Home Lab - Adding Users with PowerShell](https://github.com/anthonybastone1/ActiveDirectory-PowerShell)
