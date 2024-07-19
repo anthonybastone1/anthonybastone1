@@ -18,21 +18,20 @@
 
 <h2>✍️ Skills</h2>
 
-  - Microsoft Windows
-  - Active Directory
+  - Microsoft Windows 10 & 11; Windows Server 2019 & 2022
   - Microsoft Office
+  - Active Directory
   - SIEM (Splunk, Elastic Stack, Microsoft Sentinel)
-  - Virtual Machines (VMware, Oracle VirtualBox, Azure VM)
+  - Vulnerability Management (Nessus Essentials)
+  - Virtual Machines (VMware, Oracle VirtualBox, Azure)
   - Kali Linux
   - EDR
+  - Cybersecurity
   - TCP/IP
   - OSI Model
   - IDS/IPS
-  - Network Protocols
-  - Network Security
-  - Network Architecture
+  - Network Security, Protocols, and Architecture
   - Attention to Detail
-  - Cybersecurity
   - Communication
   - Customer Service
   - Leadership
