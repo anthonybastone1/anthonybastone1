@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anthony! <br/><a href="https://www.linkedin.com/in/mrbastone/">Networking</a> & <a href="https://github.com/anthonybastone1"> Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Anthony! <br/>Your Favorite</a> <a href="https://www.linkedin.com/in/mrbastone/"> Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
