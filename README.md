@@ -17,7 +17,7 @@
 - [CompTIA CySA+](https://github.com/user-attachments/assets/38036520-dd44-427f-8252-7b34f3223cfb) - [Verify Certification](https://www.credly.com/badges/bca3c105-4974-4bf5-91d6-284c897793cd/linked_in_profile)
 - [CompTIA Security+ CE](https://github.com/anthonybastone1/anthonybastone1/assets/172090820/f860eda5-fcba-487b-98da-f0658a8670de) - [Verify Certification](https://www.credly.com/badges/5f4d71bf-1cd8-491e-b03a-62907d4326e4/public_url)
 - [CompTIA Network+ CE](https://github.com/anthonybastone1/anthonybastone1/assets/172090820/0d6d5ef3-8ae0-49b5-9a99-b37cfdd480ff) - [Verify Certification](https://www.credly.com/badges/275213f6-ce5b-4fc5-b9ce-520591c11e90/public_url)
-- [ISC2 CC](https://github.com/user-attachments/assets/8df1ac4c-979d-4168-9443-b1a66d5d8da8) - [Verify Certification](https://www.credly.com/badges/2385fd01-c564-4ca7-9b77-ed889880a07c/public_url)
+- [ISC2 CC](https://github.com/user-attachments/assets/baabc5d5-61a8-4406-b773-ba2a52f22e6f) - [Verify Certification](https://www.credly.com/badges/2385fd01-c564-4ca7-9b77-ed889880a07c/public_url)
 
 <h2>✍️ A Few Skills</h2>
 
