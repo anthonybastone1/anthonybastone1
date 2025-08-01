@@ -14,9 +14,10 @@
 
 <h2>📄 Active Certifications</h2>
 
-- [CompTIA CySA+](https://github.com/user-attachments/assets/38036520-dd44-427f-8252-7b34f3223cfb) - [Verify Certification](https://www.credly.com/badges/bca3c105-4974-4bf5-91d6-284c897793cd/linked_in_profile)
-- [CompTIA Security+ CE](https://github.com/anthonybastone1/anthonybastone1/assets/172090820/f860eda5-fcba-487b-98da-f0658a8670de) - [Verify Certification](https://www.credly.com/badges/5f4d71bf-1cd8-491e-b03a-62907d4326e4/public_url)
-- [CompTIA Network+ CE](https://github.com/anthonybastone1/anthonybastone1/assets/172090820/0d6d5ef3-8ae0-49b5-9a99-b37cfdd480ff) - [Verify Certification](https://www.credly.com/badges/275213f6-ce5b-4fc5-b9ce-520591c11e90/public_url)
+- [CompTIA Pentest+](https://github.com/user-attachments/assets/99a921ab-ae06-44df-9503-bd4edca40c1a) - [Verify Certification](https://www.credly.com/badges/fa5e3f78-7514-46e1-8489-490bac6cd885/public_url)
+- [CompTIA CySA+](https://github.com/user-attachments/assets/cf9b9fb5-ce26-46a1-8ee1-aea2e5f6b5cc) - [Verify Certification](https://www.credly.com/badges/dd338dcb-8208-46d3-897f-2ef85148ba77/public_url)
+- [CompTIA Security+](https://github.com/user-attachments/assets/40677436-f820-4f36-b3f7-02956aa72fca) - [Verify Certification](https://www.credly.com/badges/5f4d71bf-1cd8-491e-b03a-62907d4326e4/public_url)
+- [CompTIA Network+](https://github.com/user-attachments/assets/12b55d86-da14-4d34-a604-bf85bf456058) - [Verify Certification](https://www.credly.com/badges/275213f6-ce5b-4fc5-b9ce-520591c11e90/public_url)
 - [ISC2 CC](https://github.com/user-attachments/assets/baabc5d5-61a8-4406-b773-ba2a52f22e6f) - [Verify Certification](https://www.credly.com/badges/2385fd01-c564-4ca7-9b77-ed889880a07c/public_url)
 
 <h2>✍️ A Few Skills</h2>
