@@ -31,7 +31,7 @@
   - Microsoft Office
   - Active Directory
   - Logging and SIEM Tools (Splunk, Elastic Stack, Microsoft Sentinel)
-  - Vulnerability Management (ACAS, Tenable Nessus)
+  - Vulnerability Management (ACAS, Tenable Nessus, Security Center)
   - Virtual Machines (VMware, Oracle VirtualBox, Azure)
   - Kali Linux
   - EDR
