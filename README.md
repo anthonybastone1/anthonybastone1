@@ -25,7 +25,7 @@
   - Risk Management Framework (RMF)
   - Information Assurance
   - Information Systems Auditing
-  - NIST Standards (SP 800-53, 800-37, 800-137), DoDI 8510.01
+  - NIST Standards
   - eMASS
   - Microsoft Windows 10 & 11; Windows Server 2019 & 2022
   - Microsoft Office
