@@ -8,9 +8,11 @@
   - [Active Directory - Adding Users with PowerShell](https://github.com/anthonybastone1/ActiveDirectory-PowerShell)
   - [Elastic SIEM - Nmap](https://github.com/anthonybastone1/elasticsiem)
 
-<h2>📚 Currently Studying</h2>
+<h2>📚 Advanced Education</h2>
 
-- [AWS Certified Solutions Architect - Associate](https://github.com/anthonybastone1/AWS-SAA)
+- Master of Science | Western Governors University
+
+  * Cybersecurity and Information Assurance
 
 <h2>📄 Active Certifications</h2>
 
