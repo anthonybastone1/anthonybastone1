@@ -17,7 +17,7 @@
 <h2>📄 Active Certifications</h2>
 
 - [Certified Information Security Manager (CISM) | ISACA]() - [Verify Credential](https://www.credly.com/badges/53dae86b-0807-4eb3-9cd8-768c9c44e285/public_url)
-- [SecurityX (formerly CASP+) | CompTIA](https://github.com/user-attachments/assets/eb61c381-d0a8-406d-8d5a-e3b22a356e6c) - [Verify Credential](https://www.credly.com/badges/e3b6a66a-ca5f-4c09-9fc1-607944d5995b/public_url)
+- [SecurityX (CASP+) | CompTIA](https://github.com/user-attachments/assets/eb61c381-d0a8-406d-8d5a-e3b22a356e6c) - [Verify Credential](https://www.credly.com/badges/e3b6a66a-ca5f-4c09-9fc1-607944d5995b/public_url)
 - [Pentest+ | CompTIA](https://github.com/user-attachments/assets/99a921ab-ae06-44df-9503-bd4edca40c1a) - [Verify Credential](https://www.credly.com/badges/fa5e3f78-7514-46e1-8489-490bac6cd885/public_url)
 - [CySA+ | CompTIA](https://github.com/user-attachments/assets/cf9b9fb5-ce26-46a1-8ee1-aea2e5f6b5cc) - [Verify Credential](https://www.credly.com/badges/dd338dcb-8208-46d3-897f-2ef85148ba77/public_url)
 - [Security+ | CompTIA](https://github.com/user-attachments/assets/40677436-f820-4f36-b3f7-02956aa72fca) - [Verify Credential](https://www.credly.com/badges/5f4d71bf-1cd8-491e-b03a-62907d4326e4/public_url)
