@@ -1,6 +1,6 @@
 <h1>Hi, I'm Anthony! <br/>Your Favorite</a> <a href="https://www.linkedin.com/in/mrbastone/"> Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects</h2>
 
   - [Vulnerability Management - Nessus](https://github.com/anthonybastone1/Vulnerability-Management)
   - [Microsoft Sentinel - Live Attacks](https://github.com/anthonybastone1/MicrosoftSentinel)
